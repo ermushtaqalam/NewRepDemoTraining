@@ -1,4 +1,10 @@
 This is my first git file project...!!
 class HelloGit{
-my
+my public static void main(){
+\}git 
+
+
+
+
+90
 }
